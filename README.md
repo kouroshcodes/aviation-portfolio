@@ -9,7 +9,7 @@ storytelling, and visualization skills in an aviation context.
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](01_passenger_satisfaction/assets/dashboard_preview.png)
-
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohamamd.gerashi/viz/AviationPassengerSatisfactionAnalysis/Dashboard1)
 ---
 
 ## 🔍 Key Findings
