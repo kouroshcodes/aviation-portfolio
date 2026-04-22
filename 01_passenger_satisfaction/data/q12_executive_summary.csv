@@ -1,0 +1,7 @@
+"class","type_of_travel","total_passengers","satisfaction_rate","avg_delay_minutes","worst_touchpoint","worst_avg_rating"
+"Business","Business travel","47508","72.02","14.35","Inflight Wifi","2.79"
+"Business","Personal Travel","2157","12.24","15.46","Ease Of Online Booking","2.54"
+"Eco","Business travel","20257","29.62","16.16","Departure Arrival Convenient","2.61"
+"Eco","Personal Travel","26488","10.20","14.40","Ease Of Online Booking","2.48"
+"Eco Plus","Business travel","3890","39.33","16.09","Checkin Service","2.73"
+"Eco Plus","Personal Travel","3604","8.71","14.72","Ease Of Online Booking","2.46"

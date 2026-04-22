@@ -1,0 +1,6 @@
+"delay_bucket","pct_of_total","total_passengers","satisfaction_rate","satisfied_passengers"
+"No Delay","56.46","58668","45.75","26842"
+"Short (1-15 min)","21.35","22184","43.66","9685"
+"Moderate (16-45 min)","12.60","13093","37.68","4934"
+"Severe (120+ min)","2.44","2540","36.06","916"
+"Long (46-120 min)","7.14","7419","35.69","2648"
