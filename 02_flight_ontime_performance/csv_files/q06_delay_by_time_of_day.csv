@@ -1,0 +1,5 @@
+"time_bucket","total_flights","delayed_flights","delay_rate"
+"1 - Early Morning (12am-6am)","6176","1725","27.93"
+"2 - Morning (6am-12pm)","218449","79423","36.36"
+"3 - Afternoon (12pm-6pm)","206930","103654","50.09"
+"4 - Evening (6pm-12am)","107828","55462","51.44"
